@@ -1,4 +1,4 @@
-# gamesense-forums
+# gamesense-forum
 originally posted by Hurb on vacban.wtf
 
 this is the most current looking gamesense forum src if you want the 2018 one you can find it here
