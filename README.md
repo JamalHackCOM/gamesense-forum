@@ -2,6 +2,10 @@
 originally posted by Hurb on vacban.wtf
 
 this is the most current looking gamesense forum src if you want the 2018 one you can find it here
+https://github.com/noodle3846/gamesense-forum-2018
+
+info!!!
+if you are going to seriously use this you need to fix the vulnerabilities or motify will deface it
 
 how to use?
 1. upload files to host
