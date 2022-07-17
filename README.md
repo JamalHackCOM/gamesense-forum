@@ -15,3 +15,5 @@ how to use?
 to make urself admin go back into ur db after registering and set your group_id in the "users" table to "1"
 
 if u need help add me on discord noodle#3846
+
+![image](https://user-images.githubusercontent.com/98117900/179391673-aff689d7-b489-4c48-8559-8ca360b09efb.png)
