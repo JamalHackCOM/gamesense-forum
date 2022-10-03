@@ -18,7 +18,7 @@ how to use?
 
 to make urself admin go back into ur db after registering and set your group_id in the "users" table to "1"
 
-if u need help add me on discord noodle#3846
+if u need help add me on discord noodle#1337
 
 you can also purchase additional packages from me. (add me on discord for this)
 
